@@ -4,7 +4,7 @@ Welcome to the release notes for Caffeine Curve! Here you can find all the detai
 
 ---
 
-## 🎉 Version 1.0.13
+## 🎉 Version 1.1.13
 *Status: Ready for Release*
 
 This update brings stability fixes for your Home Screen widgets, fresh new designs, and visual improvements across the app.

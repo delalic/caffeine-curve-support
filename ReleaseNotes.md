@@ -4,28 +4,26 @@ Welcome to the release notes for Caffeine Curve! Here you can find all the detai
 
 ---
 
-## 🚀 Upcoming Releases (1.0.11 - 1.0.13)
-*These features are currently in development or internal testing and will be available in upcoming updates.*
+## 🎉 Version 1.0.13
+*Status: Ready for Release*
 
-### Version 1.0.13
-- **New Feature:** Added a helpful empty state view (an empty cup with tips) when no caffeine data is logged or if HealthKit lacks permission.
-- **Improvement:** Enhanced background refresh by registering the background query during app initialization.
+This update brings stability fixes for your Home Screen widgets, fresh new designs, and visual improvements across the app.
 
-### Version 1.0.12
-- **New Feature:** Added a brand new widget featuring a trend arrow for quick insights.
-- **Enhancement:** Added trend indicators to individual intake items and the main gauge.
-- **UI Updates:** 
-  - Increased the size of the badge on the main view for better visibility.
+### Major Changes & Features
+- **Widget Reliability:** Fixed an issue where the widget would occasionally fail to load and display as a blank placeholder. Now, your caffeine levels will stay up-to-date and display reliably on your Home Screen!
+- **Improved Background Syncing:** We've made behind-the-scenes improvements to ensure the app refreshes your tracking data more smoothly in the background.
+- **Friendly Empty States:** Added a helpful new empty cup design with useful tips for times when you haven't logged any caffeine yet, or if HealthKit access needs to be enabled.
+- **Trend Indicators:** Wondering if your daily caffeine level is going up or down? We've added visual trend arrows to your recent intakes, the main gauge, and even introduced a brand new widget variation featuring a trend arrow.
+- **UI Polish:** 
+  - Updated the wording on your intake entries to show milligrams "active" instead of "left" for better clarity.
+  - Refined the widget aesthetics with smoother rounded corners and a bold new bean icon.
+  - Increased the size of the badge on the main screen so it's easier to read at a glance.
   - Adjusted card backgrounds and removed scrollbars for a cleaner, polished look.
-  - Refined the widget design with rounded corners and a bold bean icon instead of truncation.
-
-### Version 1.0.11
-- **Improvement:** Updated terminology in the app, replacing the word "left" with "active" to better clarify active caffeine levels in the body.
 
 ---
 
 ## 🎉 Version 1.0.10 (Initial App Store Release)
-*Status: Currently in App Store Review*
+*Status: Currently in Production (App Store)*
 
 Our very first official release! We've worked hard to bring you a clean and effective way to monitor your daily caffeine intake.
 

@@ -4,8 +4,32 @@ Welcome to the release notes for Caffeine Curve! Here you can find all the detai
 
 ---
 
-## 🎉 Version 1.1.13
+## 🎉 Version 2.0.24
 *Status: Ready for Release*
+
+This update brings you the long-awaited Apple Watch app, deeper personalization options for your body chemistry, and more visual polish than a freshly brewed espresso.
+
+### ⌚️ Caffeine Curve on Your Wrist
+We've brought the pulse of your caffeine intake to your Apple Watch! No more reaching for your phone to check how that morning cold brew is holding up.
+- **Brand New Watch App:** View your real-time caffeine levels on your wrist.
+- **Watch Face Complications:** Personalize your Watch face with live updates on your active milligrams.
+- **Seamless Connectivity:** Your caffeine sensitivity settings sync instantly from your iPhone.
+
+### 🧬 Body Chemistry: Smarter Logging
+Because every body is different, Caffeine Curve now adjusts to yours.
+- **Personalized Decay Rates:** Set your sensitivity (Low, Medium, or High) and watch the app automatically calculate how YOUR body processes caffeine based on an adjusted half-life.
+- **Custom Caffeine Ranges:** Are you a caffeine pro? Adjust the mg thresholds for "low", "medium", and "high" levels to match your lifestyle.
+- **400mg Gauge Support:** We've expanded the main gauge scale to handle up to 400mg of active caffeine.
+
+### ✨ Polish & Performance
+- **The "Falling Comet" Fix:** Refined the conic gradient on the main gauge to ensure the falling comet animation looks as smooth as silk.
+- **About the Science:** Added a new section to the About view explaining how sensitivity impacts your caffeine decay.
+- **Snappier Syncing:** Improved background updates and health data sharing between devices.
+
+---
+
+## 🎉 Version 1.1.13
+*Status: Currently in Production (App Store)*
 
 This update brings stability fixes for your Home Screen widgets, fresh new designs, and visual improvements across the app.
 
@@ -23,7 +47,7 @@ This update brings stability fixes for your Home Screen widgets, fresh new desig
 ---
 
 ## 🎉 Version 1.0.10 (Initial App Store Release)
-*Status: Currently in Production (App Store)*
+*Status: Retired*
 
 Our very first official release! We've worked hard to bring you a clean and effective way to monitor your daily caffeine intake.
 

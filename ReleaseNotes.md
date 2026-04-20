@@ -2,6 +2,8 @@
 
 Welcome to the release notes for Caffeine Curve! Here you can find all the details about our updates, new features, and bug fixes.
 
+📱 [Download Caffeine Curve on the App Store](https://apps.apple.com/us/app/caffeine-curve/id6760567892)
+
 ---
 
 ## 🎉 Version 2.1.4

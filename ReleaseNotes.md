@@ -4,8 +4,34 @@ Welcome to the release notes for Caffeine Curve! Here you can find all the detai
 
 ---
 
+## 🎉 Version 2.1.4
+*Status: Upcoming*
+
+This update brings a massive expansion to Home Screen widgets, deeper personalization for your body chemistry, new insights on your Apple Watch, and a brand new Demo mode to test drive the app.
+
+### 🧩 Home Screen Widgets Expanded
+We’ve loaded up your Home Screen with a variety of new ways to check your stats without even opening the app:
+- **Trend Chart Widget:** A brand new medium-sized widget that plots your active caffeine trend directly on your Home Screen.
+- **Sleep Clear Widget:** Instantly see if you're currently cleared for sleep, or exactly what time you will be.
+- **More Gauges:** Added both small and large variations of the classic caffeine gauge to fit perfectly into your daily setup.
+
+### 🧬 Precise Personalization
+Because everybody processes caffeine a little differently:
+- **5 Sensitivity Levels:** We've upgraded from three to five different body chemistry settings, allowing you to dial in your caffeine decay rate with even more precision. 
+
+### ⌚️ Apple Watch Upgrades
+- **Clearance Estimates:** We've added a new clearance card to your watch so you know exactly when your system will be caffeine-free, right from your wrist.
+- **Streamlined Experience:** Redesigned watch buttons and a more focused main gauge for making tracking on the go faster than ever.
+
+### ✨ Polish & Performance
+- **Demo Mode:** Want to see the app's full capabilities without logging your real intakes? You can now flip on Demo Mode to explore the app populated with sample data.
+- **Peak Indicators:** The main view will now clearly highlight when your most recent intake hits its maximum effect.
+- **Smarter Charts & Loading:** We've fine-tuned the Caffeine Trend chart for pinpoint accuracy and improved data syncing so everything feels faster and smoother.
+
+---
+
 ## 🎉 Version 2.0.24
-*Status: Ready for Release*
+*Status: Currently in Production (App Store)*
 
 This update brings you the long-awaited Apple Watch app, deeper personalization options for your body chemistry, and more visual polish than a freshly brewed espresso.
 
@@ -29,7 +55,7 @@ Because every body is different, Caffeine Curve now adjusts to yours.
 ---
 
 ## 🎉 Version 1.1.13
-*Status: Currently in Production (App Store)*
+*Status: Retired*
 
 This update brings stability fixes for your Home Screen widgets, fresh new designs, and visual improvements across the app.
 

@@ -6,8 +6,35 @@ Welcome to the release notes for Caffeine Curve! Here you can find all the detai
 
 ---
 
-## 🎉 Version 2.1.4
+## 🎉 Version 2.2.6
 *Status: Upcoming*
+
+This update introduces smart notifications to keep you in the loop, a stunning new "Liquid Glass" design, enhanced Apple Watch complications, and more ways to personalize your app's appearance.
+
+### 🔔 Smart Notifications
+Stay informed without even opening the app:
+- **Peak Alerts:** Get notified exactly when your caffeine intake reaches its maximum effect.
+- **Sleep Ready Alerts:** Receive a notification the moment your caffeine levels drop below your personalized sleep threshold.
+
+### ✨ Liquid Glass Design
+We've overhauled the app's visuals with a premium touch:
+- **Native Look:** Main cards, buttons, and status badges on both iPhone and Apple Watch now feature a beautiful "Liquid Glass" effect, making the app feel more native and visually stunning.
+- **Appearance Settings:** You can now manually lock the app to Light Mode, Dark Mode, or follow your system settings. 
+- **New App Icons:** Enjoy our updated dark and brand new tinted app icons to match your Home Screen aesthetic.
+
+### ⌚️ Apple Watch Enhancements
+Your wrist just got a lot more informative:
+- **New Complications:** Added a detailed rectangular complication and a dial-top text complication that show exact times for when you will peak or be clear for sleep (e.g., "💤 22:30 Sleep ready").
+- **Data Freshness:** Added a new freshness indicator so you always know exactly when your watch last synced with your phone.
+
+### 📈 Widget & Chart Polish
+- **Color Matching:** The Home Screen trend chart now beautifully matches its graph line and current status dot to your active caffeine level badge.
+- **Peak Watermark:** We've added a helpful watermark to easily identify your peak caffeine times.
+
+---
+
+## 🎉 Version 2.1.4
+*Status: Currently in Production (App Store)*
 
 This update brings a massive expansion to Home Screen widgets, deeper personalization for your body chemistry, new insights on your Apple Watch, and a brand new Demo mode to test drive the app.
 
@@ -33,7 +60,7 @@ Because everybody processes caffeine a little differently:
 ---
 
 ## 🎉 Version 2.0.24
-*Status: Currently in Production (App Store)*
+*Status: Retired*
 
 This update brings you the long-awaited Apple Watch app, deeper personalization options for your body chemistry, and more visual polish than a freshly brewed espresso.
 

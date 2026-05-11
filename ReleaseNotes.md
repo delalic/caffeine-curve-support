@@ -6,8 +6,27 @@ Welcome to the release notes for Caffeine Curve! Here you can find all the detai
 
 ---
 
-## 🎉 Version 2.2.6
+## 🎉 Version 2.2.10
 *Status: Upcoming*
+
+This update brings a refreshed Settings experience, friendlier notifications, and important under-the-hood reliability improvements for HealthKit and Apple Watch syncing.
+
+### ⚙️ Settings Refreshed
+- **Organized Navigation:** We've refactored the settings into clean, easy-to-use category screens. Finding the "Half-Life" card and your preferences is now smoother than ever.
+- **Intuitive Labels:** Updated the caffeine sensitivity levels (e.g., Minimal → Low, Low → Mild) to make understanding your zones much more intuitive.
+- **Health Integration:** Better visibility into Apple Health permissions, including clear error messaging during onboarding if authorization fails.
+
+### 🔔 Notification Polish
+- **Friendlier Alerts:** We've tweaked the copy for sleep and peak notifications to be friendlier and more perfectly tailored to your current caffeine zone.
+
+### 🛠️ Performance & Syncing
+- **Reliable Health Sync:** Coordinated overlapping HealthKit reads and handled transient authorization probes so your data stays perfectly in sync.
+- **Watch Stability:** Smoothed out background refresh and cancelled stale Watch snapshot transfers, ensuring your Apple Watch complications are always up to speed.
+
+---
+
+## 🎉 Version 2.2.6
+*Status: Currently in Production (App Store)*
 
 This update introduces smart notifications to keep you in the loop, a stunning new "Liquid Glass" design, enhanced Apple Watch complications, and more ways to personalize your app's appearance.
 
@@ -34,7 +53,7 @@ Your wrist just got a lot more informative:
 ---
 
 ## 🎉 Version 2.1.4
-*Status: Currently in Production (App Store)*
+*Status: Retired*
 
 This update brings a massive expansion to Home Screen widgets, deeper personalization for your body chemistry, new insights on your Apple Watch, and a brand new Demo mode to test drive the app.
 
